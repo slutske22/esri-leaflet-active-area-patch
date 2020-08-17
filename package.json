@@ -1,6 +1,6 @@
 {
   "name": "esri-leaflet-active-area-patch",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Patch to make esri-leaflet playt nice with leaflet-active-area",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/slutske22/esri-leaflet-active-area-patch.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "leaflet",
     "esri",
