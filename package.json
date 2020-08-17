@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/slutske22/esri-leaflet-active-area-patch.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [
     "leaflet",
     "esri",
